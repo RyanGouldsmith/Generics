@@ -1,0 +1,3 @@
+Generics and Stack in Java
+
+This is a stack-like implementation, using generics. I used object for this exercise, but this can easily be changed.
