@@ -1,5 +1,5 @@
 public class Main{
-	//creates a new stack which: Adds, peeks and removes items.
+	
 	public static void main(String[] args){
 		//sets the generic type to be an object
 		Stack<Object> s = new Stack<Object>();

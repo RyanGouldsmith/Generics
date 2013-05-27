@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-//this is the stack class where items are added, removed and checked to see what they are
+
 public class Stack<E> {
 	//Use an ArrayList here
 	private ArrayList<E> a;
